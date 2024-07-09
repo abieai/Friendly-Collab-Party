@@ -1,5 +1,5 @@
 # Friendly-Collab-Party
-## Description
+## Description of Project
 This is a project about collaboration
 ### Collaborators
 * Yellow - Leader
